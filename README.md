@@ -1,7 +1,7 @@
 # Graphql-Client-for-Unity
 Graphql client for Unity.
 
-基于
+基于Graphql-Client
 
 [Graphql-Client]: https://github.com/graphql-dotnet/graphql-client.git
 
